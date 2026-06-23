@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  family-health-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: family_health_agent
+    ports:
+      - "3000:3000"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    restart: unless-stopped

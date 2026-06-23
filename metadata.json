@@ -1,0 +1,6 @@
+{
+  "name": "Family Health History Agent",
+  "description": "A multi-agent conversational health intake system that maps, tracks, and analyzes hereditary health records and disease clusters across generations in English and Urdu, exporting doctor-ready clinical summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

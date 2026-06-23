@@ -1,4 +1,4 @@
-# Family Health History Agent (FHHA) 🧬
+# Family Health History Agent (FHHA)
 > **Google x Kaggle — "5-Day AI Agents Intensive" Competition Submission**  
 > **Designed & Developed by:** Muhammad Danyal  
 > **Ref Link:** [share.streamlit.io/danyal/family-history](https://share.streamlit.io/danyal/family-health-history)
@@ -118,9 +118,56 @@ GEMINI_API_KEY="YOUR_GOOGLE_AI_STUDIO_KEY"
 2. Visit `http://localhost:3000` in your browser.
 
 ---
+---
 
-## 📄 Medical Info Disclaimer
-This software acts purely as an educational family health history repository and informational risk map. It does not provide clinical diagnoses, medical prescription, or therapeutic plans. All generated report files should be printed and evaluated by a qualified doctor in a physical consultation.
+# 👨‍💻 About the Developer
+
+## Muhammad Danyal
+
+Muhammad Danyal is an AI Researcher and Developer from Pakistan with a strong interest in Artificial Intelligence, Large Language Models (LLMs), Natural Language Processing (NLP), Multi-Agent Systems, Knowledge Graphs, Healthcare AI, and Intelligent Decision Support Systems.
+
+He is passionate about building practical AI solutions that solve real-world problems in healthcare, education, and language technologies. His work focuses on developing intelligent systems that are explainable, multilingual, and accessible to diverse communities.
+
+The **Family Health History Agent (FHHA)** reflects his vision of using AI to help families preserve critical health information, understand hereditary risks, and improve health awareness through conversational and user-friendly technologies.
+
+### Research Interests
+
+- Artificial Intelligence (AI)
+- Agentic AI Systems
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Knowledge Graphs
+- Healthcare AI
+- Educational AI
+- Machine Learning
+- Data Science
+- Multilingual AI
 
 ---
-*Created as a premium agentic solution, submitting to the Google x Kaggle AI Agent Developer Board.*
+
+## 🌐 Connect With Me
+
+### LinkedIn
+[Muhammad Danyal](https://www.linkedin.com/in/danyal-ai/)
+
+### GitHub
+[GitHub Profile](https://github.com/daniscienceml)
+
+### Kaggle
+[Kaggle Profile](https://www.kaggle.com/muhammaddanyalmalik)
+
+### Email
+dani.ai.practitioner@gmail.com
+
+---
+
+## 📖 Citation
+
+If you use this project, please cite:
+
+> Muhammad Danyal Malik. *Family Health History Agent (FHHA): A Multi-Agent AI System for Family Health Risk Assessment and Pedigree Analysis*. Google × Kaggle AI Agents: Intensive Vibe Coding Capstone Project, 2026.
+
+---
+
+⭐ If you found this project useful, consider giving it a star and sharing it with others interested in AI for Healthcare.
+
